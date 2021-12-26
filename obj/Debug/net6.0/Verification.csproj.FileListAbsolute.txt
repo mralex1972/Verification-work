@@ -1,0 +1,15 @@
+E:\GeekBrains\Training C#\Verification\bin\Debug\net6.0\Verification.exe
+E:\GeekBrains\Training C#\Verification\bin\Debug\net6.0\Verification.deps.json
+E:\GeekBrains\Training C#\Verification\bin\Debug\net6.0\Verification.runtimeconfig.json
+E:\GeekBrains\Training C#\Verification\bin\Debug\net6.0\Verification.dll
+E:\GeekBrains\Training C#\Verification\bin\Debug\net6.0\ref\Verification.dll
+E:\GeekBrains\Training C#\Verification\bin\Debug\net6.0\Verification.pdb
+E:\GeekBrains\Training C#\Verification\obj\Debug\net6.0\Verification.csproj.AssemblyReference.cache
+E:\GeekBrains\Training C#\Verification\obj\Debug\net6.0\Verification.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Training C#\Verification\obj\Debug\net6.0\Verification.AssemblyInfoInputs.cache
+E:\GeekBrains\Training C#\Verification\obj\Debug\net6.0\Verification.AssemblyInfo.cs
+E:\GeekBrains\Training C#\Verification\obj\Debug\net6.0\Verification.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Training C#\Verification\obj\Debug\net6.0\Verification.dll
+E:\GeekBrains\Training C#\Verification\obj\Debug\net6.0\ref\Verification.dll
+E:\GeekBrains\Training C#\Verification\obj\Debug\net6.0\Verification.pdb
+E:\GeekBrains\Training C#\Verification\obj\Debug\net6.0\Verification.genruntimeconfig.cache
