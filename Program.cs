@@ -23,3 +23,5 @@ do
     }
     
 }while(input.ToLower() != "end");
+int[] outArray = new int[i+1];
+Array.Copy(array, 0, outArray, 0, i+1);
