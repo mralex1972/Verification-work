@@ -4,7 +4,7 @@
 // либо сгенерировать случайным образом. Рекомендуется
 // не пользоваться коллекциями, лучше обойтись исключительно массивами.
 //
-Console.WriteLine("Введите число");
+Console.WriteLine("Введите число");//Ввод чисел с клавиатуры
 Console.WriteLine("Для завершения введите END");
 int[] array = new int[30];
 string? input ="";
@@ -17,15 +17,15 @@ do
         int num = Convert.ToInt32(input);
         if(num >8)
         {
-            array[i] = num;
+            array[i] = num;//Добавление в массив чисел > 8
             i++;
         }
     }
     
 }while(input.ToLower() != "end");
-int[] outArray = new int[i];
+int[] outArray = new int[i];// Массив введенных чисел без лишних 0, подлежащий выводу
 Array.Copy(array, outArray, i);
 for (int j = 0; j < outArray.Length; j++)
 {
-    Console.Write(outArray[j] + " ");
+    Console.Write(outArray[j] + " ");// Вывод массива
 }
