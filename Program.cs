@@ -22,7 +22,7 @@ do
         }
     }
     
-}while(input.ToLower() != "end");
+ } while(input.ToLower() != "end");
 int[] outArray = new int[i];// Массив введенных чисел без лишних 0, подлежащий выводу
 Array.Copy(array, outArray, i);
 for (int j = 0; j < outArray.Length; j++)
